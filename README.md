@@ -3,6 +3,8 @@
 https://www.kotlincn.net/docs/tutorials/command-line.html  
 参考
 https://www.kotlincn.net/docs/reference/
+在线编程网站  
+https://try.kotlinlang.org/
 
 ### 安装kotlin
 brew install kotlin
@@ -17,3 +19,6 @@ https://www.kotlincn.net/docs/tutorials/koans.html
 
 google kotlin 
 https://developer.android.com/samples/?language=kotlin
+### 疑问
+let apply run with 区别
+https://blog.csdn.net/guijiaoba/article/details/78975011
